@@ -1,0 +1,364 @@
+@media only screen and (max-width: 280px){
+    .banner-section h1{
+        font-size: 15px !important;
+        line-height: 37px !important;
+    }
+    .banner-section p{
+        font-size: 9px !important;
+    }
+    .banner-section h6{
+        font-size: 9px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 20%;
+        margin-top: 60px;
+    }
+    .banner-section{
+        height: 600px !important;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width:281px) and (max-width: 320px){
+    .banner-section h1{
+        font-size: 17px !important;
+        line-height: 30px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+        line-height: 20px !important;
+    }
+    .banner-section h6{
+        font-size: 11px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 25%;
+        margin-top: 60px;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width:351px) and (max-width: 367px){
+    .banner-section h1{
+        font-size: 20px !important;
+    }
+    .banner-section p{
+        font-size: 12px !important;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 30%;
+        margin-top: 60px;
+    }
+    .banner-section {
+        height: 650px !important;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width:321px) and (max-width: 350px){
+    .banner-section h1{
+        font-size: 18px !important;
+    }
+    .banner-section p{
+        font-size: 12px !important;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 25%;
+        margin-top: 60px;
+    }
+    .banner-section {
+        height: 650px !important;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width:368px) and (max-width: 375px){
+    .banner-section h1{
+        font-size: 21px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+    }
+    .banner-section h6{
+        font-size: 11px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .banner-section{
+        height: 660px !important;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 30%;
+        margin-top: 60px;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width:377px) and (max-width: 399px){
+    .banner-section h1{
+        font-size: 20px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+    }
+    .banner-section h6{
+        font-size: 11px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .banner-section{
+        height: 660px !important;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 30%;
+        margin-top: 60px;
+    }br{
+        display: none;
+    }
+}
+
+@media only screen and (min-width:400px) and (max-width: 411px){
+    .banner-section h1{
+        font-size: 23px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+    }
+    .banner-section h6{
+        font-size: 12px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }br{
+        display: none;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 30%;
+        margin-top: 60px;
+    }
+    .banner-section {
+        height: 700px !important;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width: 412px) and (max-width: 420px){
+    .banner-section h1{
+        font-size: 23px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+    }
+    .banner-section h6{
+        font-size: 11px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .banner-section{
+        height: 700px !important;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 30%;
+        margin-top: 60px;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width: 498px) and (max-width: 528px){
+    .banner-section h1{
+        font-size: 29px !important;
+        line-height: 32px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+    }
+    .banner-section h6{
+        font-size: 11px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .banner-section{
+        height: 700px !important;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 30%;
+        margin-top: 60px;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width: 421px) and (max-width: 497px){
+    .banner-section h1{
+        font-size: 24px !important;
+        line-height: 32px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+    }
+    .banner-section h6{
+        font-size: 11px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .banner-section{
+        height: 700px !important;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 30%;
+        margin-top: 60px;
+    }br{
+        display: none;
+    }
+}
+
+@media only screen and (min-width:513px) and (max-width: 528px){
+    .banner-section h1{
+        font-size: 30px !important;
+        line-height: 32px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+    }
+    .banner-section h6{
+        font-size: 11px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .banner-section {
+        height: 750px !important;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 35%;
+        margin-top: 60px;
+    }br{
+        display: none;
+    }
+}
+@media only screen and (min-width:529px) and (max-width: 767px){
+    .banner-section h1{
+        font-size: 31px !important;
+        line-height: 25px !important;
+    }
+    .banner-section p{
+        font-size: 11px !important;
+    }
+    .banner-section h6{
+        font-size: 11px;
+    }
+    .banner-section .container{
+        margin-top: -75px;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .banner-section {
+        height: 750px !important;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 35%;
+        margin-top: 60px;
+    }br{
+        display: none;
+    }
+}
+
+@media only screen and  (min-width:768px) and (max-width: 991px) {
+    .banner-section{
+        height: 840px !important;
+    }
+    .getstarted-btn-1st{
+        display: none;
+    }
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 40%;
+        margin-top: 50px;
+    }
+    .banner-section h1{
+       font-size: 40px !important;
+   }
+   .banner-section h6{
+       font-size: 14px;
+    }
+    .banner-section p{
+        font-size: 13px !important;
+    }
+   br{
+       display: none;
+   }
+}
+/* @media only screen and (max-width: 991px){
+    .getstarted-btn-2nd{
+        display: block !important;
+        margin-left: 35%;
+        margin-top: 60px;
+    }
+} */
+
+
+
+
+

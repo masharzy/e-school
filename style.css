@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar{
+    background-color: #F0FFF0;
+    /* color: black !important; */
+}
+.nav-item{
+    margin: 0px 10px;
+}
+#sign-up{
+    text-align: center;
+}
+.banner-section{
+    background-color: #F0FFF0;
+    height: 576px;
+}
+.highlight{
+    color: #21B573;
+}
+.banner-section .container{
+    padding-top: 100px;
+}
+.what-we-do-section{
+    margin-top: 45px;
+}
+.what-we-do-section .card{
+    background-color: #F8FFFB;
+    height: 270px;
+    border: none;
+    transition: all .5s;
+}
+.what-we-do-section .card:hover{
+    box-shadow: 0px 20px 20px 0px lightgrey;
+    background: #FFFFFF;
+}
+
+.getstarted-btn-2nd{
+    display: none;
+}
+.courses .card{
+    height: 483px;
+}
